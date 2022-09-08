@@ -7,7 +7,7 @@
 
             Contexto: Dado que estou na tela de checkout da EBAC-SHOP
 
-            Cenário: Cadastro vãlido
+            Cenário: Cadastro válido
             Quando preencher os campos obrigatórios com dados válidos
             Então deve permitir a finalização da compra
 
