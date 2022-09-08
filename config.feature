@@ -19,7 +19,7 @@ Quando adicionar um produto ao carrinho
 Então deve permitir até 10 produtos por compra 
 
 Cenário: Desfazer alterações
-Quando clicar no botão "limpar"
+Quando clicar no botão "Limpar"
 Então deve desfazer as alterações realizadas
 
 
