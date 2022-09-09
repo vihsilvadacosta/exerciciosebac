@@ -24,7 +24,7 @@
 
             Cenário: Limitação de 10 produtos por venda
             Quando inserir 11 produtos no carrinho
-            Então deve exibir uma mensagem de alerta "Quantia inválida, por favor retire algum item do carrinho"
+            Então deve exibir uma mensagem de alerta "Quantidade inválida, por favor retire algum item do carrinho"
 
             Cenário: Desfazer alterações
             Quando clicar no botão "Limpar"
