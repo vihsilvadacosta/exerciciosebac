@@ -22,7 +22,7 @@
             | maria.ebac.com.br   | 1234@ | "Formato de e-mail invãlido" |
 
             Esquema do Cenário: Não preenchimento dos campos
-            Quando nãO preencher os campos obrigatórios
+            Quando não preencher os campos obrigatórios
             E tentar finalizar o cadastro
             Então deve exibir a mensagem de alerta "Opss, prencha todos os campos!"
             
