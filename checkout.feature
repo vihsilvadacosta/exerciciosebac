@@ -1,6 +1,6 @@
             #language: pt
 
-            Funcionalidade: Cadastro
+            Funcionalidade: Checkout
             Como cliente da EBAC-SHOP
             Quero fazer concluir meu cadastro
             Para finalizar minha compra
