@@ -22,7 +22,7 @@
             | maria.ebac.com.br   | 1234@ | "Formato de e-mail invãlido" |
 
             Esquema do Cenário: Não preenchimento dos campos
-            Quando preencher <nome>, <sobrenome>, <pais>, <endereco>, <cidade>, <cep>, <tel>, e <email>
+            Quando preencher <nome>, <sobrenome>, <pais>, <endereco>, <cidade>, <cep>, <tel> e <email>
             E tentar finalizar o cadastro
             Então deve exibir a mensagem de alerta <mensagem>
             Exemplos:
