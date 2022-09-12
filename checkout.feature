@@ -23,7 +23,7 @@
 
             Esquema do Cenário: Não preenchimento dos campos
             Quando preencher <nome>, <sobrenome>, <pais>, <endereco>, <cidade>, <cep>, <tel> e <email>
-            E tentar finalizar o cadastro
+            E tentar finalizar a compra
             Então deve exibir a mensagem de alerta <mensagem>
             Exemplos:
             | nome    | sobrenome | pais   | endereco           | cidade          | cep      | tel       | email               | mensagem                               |
